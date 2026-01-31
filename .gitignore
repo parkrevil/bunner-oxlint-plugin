@@ -1,9 +1,12 @@
 # dependencies (bun install)
 node_modules
 
+# lockfiles
+bun.lock
+bun.lockb
+
 # output
 out
-dist
 *.tgz
 
 # code coverage
