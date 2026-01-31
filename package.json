@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/bun": "latest",
-    "@bunner/firebat": "github:parkrevil/bunner-firebat#main",
+    "@bunner/firebat": "github:parkrevil/bunner-firebat#270ef0e023dd4ec034ce685ad91ac732aa3ad2a9",
     "oxc-parser": "^0.110.0",
     "oxfmt": "^0.26.0",
     "oxlint": "^1.41.0",
